@@ -98,6 +98,8 @@ npm install --save \
     @solana/wallet-adapter-react-ui \
     @solana/wallet-adapter-wallets \
     @solana/web3.js \
+    bs58\
+    @noble/curves/ed25519.js\
     react
 
 from - https://github.com/anza-xyz/wallet-adapter/blob/master/APP.md
