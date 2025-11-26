@@ -16,7 +16,6 @@ const SendTokens = ({ setNotification }) => {
             setNotification({ message: "Please fill in all fields", type: 'error' });
             return;
         }
-
         try {
             setIsLoading(true);
             const transaction = new Transaction();
