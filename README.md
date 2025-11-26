@@ -1,4 +1,4 @@
-# SolFlux — Solana Devnet Companion
+# SolFlux - Solana Devnet Companion
 
 SolFlux is a sleek Solana devnet companion that lets you monitor balances, request test SOL, send tokens, and sign arbitrary messages from a single dashboard. It is built with React, Vite, and Tailwind CSS and integrates the Solana Wallet Adapter to connect to popular wallets in just a few lines of code.
 
